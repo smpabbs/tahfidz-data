@@ -71,9 +71,27 @@
       "ayatSampai": "3",
       "keterangan": "Mumtaz",
       "catatan": ""
+    },
+    {
+      "id": "1763020192763gmbx9l9oa",
+      "timestamp": "2025-11-13T07:49:52.763Z",
+      "guru": "Ust. Andi",
+      "tokenGuru": "AND2024",
+      "nama": "Ali",
+      "kelas": "9A",
+      "whatsapp": "08123456701",
+      "tanggal": "2025-11-14",
+      "baris": 2,
+      "menghafal": "ya",
+      "alasan": "",
+      "surat": "13. Ar-Ra'd",
+      "ayatDari": "2",
+      "ayatSampai": "3",
+      "keterangan": "Mumtaz",
+      "catatan": ""
     }
   ],
-  "lastUpdated": "2025-11-13T07:48:34.088Z",
-  "totalRecords": 4,
+  "lastUpdated": "2025-11-13T07:49:52.763Z",
+  "totalRecords": 5,
   "appVersion": "1.0"
 }
