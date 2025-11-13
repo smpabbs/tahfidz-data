@@ -17,8 +17,27 @@
       "ayatSampai": "4",
       "keterangan": "Mumtaz",
       "catatan": ""
+    },
+    {
+      "id": "1763020042802kalqdp8u0",
+      "timestamp": "2025-11-13T07:47:22.802Z",
+      "guru": "Ust. Ahmad",
+      "tokenGuru": "AHM2024",
+      "nama": "Ali",
+      "kelas": "9A",
+      "whatsapp": "08123456701",
+      "tanggal": "2025-11-14",
+      "baris": 3,
+      "menghafal": "ya",
+      "alasan": "",
+      "surat": "18. Al-Kahf",
+      "ayatDari": "1",
+      "ayatSampai": "4",
+      "keterangan": "Mumtaz",
+      "catatan": ""
     }
   ],
-  "lastUpdated": "2025-11-13T07:46:01.983Z",
-  "totalRecords": 1
+  "lastUpdated": "2025-11-13T07:47:22.803Z",
+  "totalRecords": 2,
+  "appVersion": "1.0"
 }
