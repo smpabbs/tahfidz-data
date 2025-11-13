@@ -53,9 +53,27 @@
       "ayatSampai": "3",
       "keterangan": "Mumtaz",
       "catatan": ""
+    },
+    {
+      "id": "17630229285782m9v5spew",
+      "timestamp": "2025-11-13T08:35:28.578Z",
+      "guru": "Ust. Ahmad",
+      "tokenGuru": "AHM2024",
+      "nama": "Ali",
+      "kelas": "9A",
+      "whatsapp": "08123456701",
+      "tanggal": "2025-11-13",
+      "baris": 3,
+      "menghafal": "ya",
+      "alasan": "",
+      "surat": "14. Ibrahim",
+      "ayatDari": "1",
+      "ayatSampai": "3",
+      "keterangan": "Mumtaz",
+      "catatan": ""
     }
   ],
-  "lastUpdated": "2025-11-13T08:34:15.979Z",
-  "totalRecords": 3,
+  "lastUpdated": "2025-11-13T08:35:28.578Z",
+  "totalRecords": 4,
   "appVersion": "1.0"
 }
