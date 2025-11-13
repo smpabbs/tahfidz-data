@@ -1,6 +1,25 @@
 {
-  "records": [],
-  "lastUpdated": "2024-01-01T00:00:00.000Z",
-  "totalRecords": 0,
+  "records": [
+    {
+      "id": "1763019530763varjs47uu",
+      "timestamp": "2025-11-13T07:38:50.763Z",
+      "guru": "Ust. Ahmad",
+      "tokenGuru": "AHM2024",
+      "nama": "Ali",
+      "kelas": "9A",
+      "whatsapp": "08123456701",
+      "tanggal": "2025-11-13",
+      "baris": 3,
+      "menghafal": "ya",
+      "alasan": "",
+      "surat": "15. Al-Hijr",
+      "ayatDari": "2",
+      "ayatSampai": "3",
+      "keterangan": "Mumtaz",
+      "catatan": ""
+    }
+  ],
+  "lastUpdated": "2025-11-13T07:38:50.763Z",
+  "totalRecords": 1,
   "appVersion": "1.0"
 }
