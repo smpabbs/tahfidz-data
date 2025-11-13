@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "id": "1763019530763varjs47uu",
-      "timestamp": "2025-11-13T07:38:50.763Z",
-      "guru": "Ust. Ahmad",
-      "tokenGuru": "AHM2024",
+      "id": "1763019802924wwo5l92o0",
+      "timestamp": "2025-11-13T07:43:22.924Z",
+      "guru": "Ust. Yoki",
+      "tokenGuru": "YOK2024",
       "nama": "Ali",
       "kelas": "9A",
       "whatsapp": "08123456701",
@@ -14,12 +14,12 @@
       "alasan": "",
       "surat": "15. Al-Hijr",
       "ayatDari": "2",
-      "ayatSampai": "3",
+      "ayatSampai": "4",
       "keterangan": "Mumtaz",
       "catatan": ""
     }
   ],
-  "lastUpdated": "2025-11-13T07:38:50.763Z",
+  "lastUpdated": "2025-11-13T07:43:22.924Z",
   "totalRecords": 1,
   "appVersion": "1.0"
 }
