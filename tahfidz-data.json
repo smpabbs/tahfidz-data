@@ -19,24 +19,6 @@
       "catatan": ""
     },
     {
-      "id": "1763020096067aj2hl99r7",
-      "timestamp": "2025-11-13T07:48:16.067Z",
-      "guru": "Ust. Ahmad",
-      "tokenGuru": "AHM2024",
-      "nama": "Dila",
-      "kelas": "9B",
-      "whatsapp": "08123456704",
-      "tanggal": "2025-11-13",
-      "baris": 4,
-      "menghafal": "ya",
-      "alasan": "",
-      "surat": "16. An-Nahl",
-      "ayatDari": "2",
-      "ayatSampai": "3",
-      "keterangan": "Mumtaz",
-      "catatan": ""
-    },
-    {
       "id": "1763020100648eu2e53zae",
       "timestamp": "2025-11-13T07:48:20.648Z",
       "guru": "Ust. Ahmad",
@@ -73,7 +55,7 @@
       "catatan": ""
     }
   ],
-  "lastUpdated": "2025-11-13T08:16:16.922Z",
-  "totalRecords": 4,
+  "lastUpdated": "2025-11-13T08:34:15.979Z",
+  "totalRecords": 3,
   "appVersion": "1.0"
 }
